@@ -3,3 +3,4 @@
 ## Toto je změna provedená na lokále
 
 Lucie Valsova
+v ramci predmetu IS
