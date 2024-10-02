@@ -4,3 +4,5 @@
 
 Lucie Valsova
 v ramci predmetu IS
+
+Test z GitHubu 2024-10-02, 9:35 
