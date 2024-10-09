@@ -1,0 +1,15 @@
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program001-vypis_rady\bin\Debug\net8.0\program001-vypis_rady.exe
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program001-vypis_rady\bin\Debug\net8.0\program001-vypis_rady.deps.json
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program001-vypis_rady\bin\Debug\net8.0\program001-vypis_rady.runtimeconfig.json
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program001-vypis_rady\bin\Debug\net8.0\program001-vypis_rady.dll
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program001-vypis_rady\bin\Debug\net8.0\program001-vypis_rady.pdb
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program001-vypis_rady\obj\Debug\net8.0\program001-vypis_rady.GeneratedMSBuildEditorConfig.editorconfig
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program001-vypis_rady\obj\Debug\net8.0\program001-vypis_rady.AssemblyInfoInputs.cache
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program001-vypis_rady\obj\Debug\net8.0\program001-vypis_rady.AssemblyInfo.cs
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program001-vypis_rady\obj\Debug\net8.0\program001-vypis_rady.csproj.CoreCompileInputs.cache
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program001-vypis_rady\obj\Debug\net8.0\program001-vypis_rady.sourcelink.json
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program001-vypis_rady\obj\Debug\net8.0\program001-vypis_rady.dll
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program001-vypis_rady\obj\Debug\net8.0\refint\program001-vypis_rady.dll
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program001-vypis_rady\obj\Debug\net8.0\program001-vypis_rady.pdb
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program001-vypis_rady\obj\Debug\net8.0\program001-vypis_rady.genruntimeconfig.cache
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program001-vypis_rady\obj\Debug\net8.0\ref\program001-vypis_rady.dll
