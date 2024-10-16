@@ -1,0 +1,15 @@
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.AssemblyInfoInputs.cache
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.AssemblyInfo.cs
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.csproj.CoreCompileInputs.cache
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.sourcelink.json
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.exe
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.deps.json
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.runtimeconfig.json
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.dll
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.pdb
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.dll
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program002a-soucet-cifer\obj\Debug\net8.0\refint\program002a-soucet-cifer.dll
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.pdb
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.genruntimeconfig.cache
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program002a-soucet-cifer\obj\Debug\net8.0\ref\program002a-soucet-cifer.dll
