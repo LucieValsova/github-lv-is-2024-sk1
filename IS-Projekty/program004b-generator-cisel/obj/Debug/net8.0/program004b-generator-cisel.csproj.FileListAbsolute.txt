@@ -1,0 +1,15 @@
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program004b-generator-cisel\obj\Debug\net8.0\program004b-generator-cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program004b-generator-cisel\obj\Debug\net8.0\program004b-generator-cisel.AssemblyInfoInputs.cache
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program004b-generator-cisel\obj\Debug\net8.0\program004b-generator-cisel.AssemblyInfo.cs
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program004b-generator-cisel\obj\Debug\net8.0\program004b-generator-cisel.csproj.CoreCompileInputs.cache
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program004b-generator-cisel\obj\Debug\net8.0\program004b-generator-cisel.sourcelink.json
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program004b-generator-cisel\bin\Debug\net8.0\program004b-generator-cisel.exe
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program004b-generator-cisel\bin\Debug\net8.0\program004b-generator-cisel.deps.json
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program004b-generator-cisel\bin\Debug\net8.0\program004b-generator-cisel.runtimeconfig.json
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program004b-generator-cisel\bin\Debug\net8.0\program004b-generator-cisel.dll
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program004b-generator-cisel\bin\Debug\net8.0\program004b-generator-cisel.pdb
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program004b-generator-cisel\obj\Debug\net8.0\program004b-generator-cisel.dll
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program004b-generator-cisel\obj\Debug\net8.0\refint\program004b-generator-cisel.dll
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program004b-generator-cisel\obj\Debug\net8.0\program004b-generator-cisel.pdb
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program004b-generator-cisel\obj\Debug\net8.0\program004b-generator-cisel.genruntimeconfig.cache
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program004b-generator-cisel\obj\Debug\net8.0\ref\program004b-generator-cisel.dll
