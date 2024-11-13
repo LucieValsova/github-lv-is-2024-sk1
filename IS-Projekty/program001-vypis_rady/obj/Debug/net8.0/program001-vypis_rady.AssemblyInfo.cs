@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program001-vypis_rady")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+036037ed6a123faaeb8591d1295bb01735cd72b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d940a54cc471fd67e9c32d937918111aa21a0561")]
 [assembly: System.Reflection.AssemblyProductAttribute("program001-vypis_rady")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program001-vypis_rady")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
