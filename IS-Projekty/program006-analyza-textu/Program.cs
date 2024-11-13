@@ -1,4 +1,4 @@
-﻿﻿﻿class Program {
+﻿﻿class Program {
     static void Main() {
         
         string again = "a";
@@ -48,7 +48,7 @@
             Console.WriteLine("Počet samohlásek: {0}", pocetSamohlasek);
             Console.WriteLine("Počet souhlásek: {0}", pocetSouhlasek);
             Console.WriteLine("Počet číslic: {0}", pocetCislic);
-            Console.WriteLine("Počet ostatních zanků: {0}", pocetOstatnich);
+            Console.WriteLine("Počet ostatních znaků: {0}", pocetOstatnich);
 
             Console.WriteLine();
             Console.WriteLine("Pro opakování programu stiskněte klávesu A");
