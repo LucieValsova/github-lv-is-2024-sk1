@@ -1,0 +1,15 @@
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program007-bubble-sort\bin\Debug\net9.0\program007-bubble-sort.exe
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program007-bubble-sort\bin\Debug\net9.0\program007-bubble-sort.deps.json
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program007-bubble-sort\bin\Debug\net9.0\program007-bubble-sort.runtimeconfig.json
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program007-bubble-sort\bin\Debug\net9.0\program007-bubble-sort.dll
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program007-bubble-sort\bin\Debug\net9.0\program007-bubble-sort.pdb
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program007-bubble-sort\obj\Debug\net9.0\program007-bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program007-bubble-sort\obj\Debug\net9.0\program007-bubble-sort.AssemblyInfoInputs.cache
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program007-bubble-sort\obj\Debug\net9.0\program007-bubble-sort.AssemblyInfo.cs
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program007-bubble-sort\obj\Debug\net9.0\program007-bubble-sort.csproj.CoreCompileInputs.cache
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program007-bubble-sort\obj\Debug\net9.0\program007-bubble-sort.sourcelink.json
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program007-bubble-sort\obj\Debug\net9.0\program007-bubble-sort.dll
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program007-bubble-sort\obj\Debug\net9.0\refint\program007-bubble-sort.dll
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program007-bubble-sort\obj\Debug\net9.0\program007-bubble-sort.pdb
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program007-bubble-sort\obj\Debug\net9.0\program007-bubble-sort.genruntimeconfig.cache
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program007-bubble-sort\obj\Debug\net9.0\ref\program007-bubble-sort.dll
