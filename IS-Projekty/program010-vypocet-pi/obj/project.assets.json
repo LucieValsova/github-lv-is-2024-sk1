@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\skola\\is\\IS-2024\\github-lv-is-2024-sk1\\IS-Projekty\\program009-reverze-pole\\program009-reverze-pole.csproj",
-      "projectName": "program009-reverze-pole",
-      "projectPath": "C:\\skola\\is\\IS-2024\\github-lv-is-2024-sk1\\IS-Projekty\\program009-reverze-pole\\program009-reverze-pole.csproj",
+      "projectUniqueName": "C:\\skola\\is\\IS-2024\\github-lv-is-2024-sk1\\IS-Projekty\\program010-vypocet-pi\\program010-vypocet-pi.csproj",
+      "projectName": "program010-vypocet-pi",
+      "projectPath": "C:\\skola\\is\\IS-2024\\github-lv-is-2024-sk1\\IS-Projekty\\program010-vypocet-pi\\program010-vypocet-pi.csproj",
       "packagesPath": "C:\\Users\\stuca\\.nuget\\packages\\",
-      "outputPath": "C:\\skola\\is\\IS-2024\\github-lv-is-2024-sk1\\IS-Projekty\\program009-reverze-pole\\obj\\",
+      "outputPath": "C:\\skola\\is\\IS-2024\\github-lv-is-2024-sk1\\IS-Projekty\\program010-vypocet-pi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stuca\\AppData\\Roaming\\NuGet\\NuGet.Config"

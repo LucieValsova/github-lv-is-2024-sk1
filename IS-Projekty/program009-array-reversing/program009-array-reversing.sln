@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "program009-reverze-pole", "program009-reverze-pole.csproj", "{73C43407-B177-42A7-B4C0-10A969A2F58E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "program009-array-reversing", "program009-array-reversing.csproj", "{748DF6CA-8E3C-4C2B-AE05-A733B3F36A3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{73C43407-B177-42A7-B4C0-10A969A2F58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{73C43407-B177-42A7-B4C0-10A969A2F58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{73C43407-B177-42A7-B4C0-10A969A2F58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{73C43407-B177-42A7-B4C0-10A969A2F58E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748DF6CA-8E3C-4C2B-AE05-A733B3F36A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748DF6CA-8E3C-4C2B-AE05-A733B3F36A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748DF6CA-8E3C-4C2B-AE05-A733B3F36A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748DF6CA-8E3C-4C2B-AE05-A733B3F36A3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F2B1023D-4F94-43BD-ABFA-7D8BC1BB6424}
+		SolutionGuid = {1AC5D3C3-7ACC-466C-88AE-E457B62A9696}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program010-vypocet-pi\obj\Debug\net9.0\program010-vypocet-pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program010-vypocet-pi\obj\Debug\net9.0\program010-vypocet-pi.AssemblyInfoInputs.cache
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program010-vypocet-pi\obj\Debug\net9.0\program010-vypocet-pi.AssemblyInfo.cs
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program010-vypocet-pi\obj\Debug\net9.0\program010-vypocet-pi.csproj.CoreCompileInputs.cache
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program010-vypocet-pi\obj\Debug\net9.0\program010-vypocet-pi.sourcelink.json
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program010-vypocet-pi\bin\Debug\net9.0\program010-vypocet-pi.exe
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program010-vypocet-pi\bin\Debug\net9.0\program010-vypocet-pi.deps.json
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program010-vypocet-pi\bin\Debug\net9.0\program010-vypocet-pi.runtimeconfig.json
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program010-vypocet-pi\bin\Debug\net9.0\program010-vypocet-pi.dll
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program010-vypocet-pi\bin\Debug\net9.0\program010-vypocet-pi.pdb
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program010-vypocet-pi\obj\Debug\net9.0\program010-vypocet-pi.dll
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program010-vypocet-pi\obj\Debug\net9.0\refint\program010-vypocet-pi.dll
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program010-vypocet-pi\obj\Debug\net9.0\program010-vypocet-pi.pdb
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program010-vypocet-pi\obj\Debug\net9.0\program010-vypocet-pi.genruntimeconfig.cache
+C:\skola\is\IS-2024\github-lv-is-2024-sk1\IS-Projekty\program010-vypocet-pi\obj\Debug\net9.0\ref\program010-vypocet-pi.dll
