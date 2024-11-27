@@ -1,0 +1,14 @@
+C:\aaa\github-lv-is-2024-sk1\IS-Projekty\program014a-kombinovana-uloha\bin\Debug\net7.0\program014a-kombinovana-uloha.exe
+C:\aaa\github-lv-is-2024-sk1\IS-Projekty\program014a-kombinovana-uloha\bin\Debug\net7.0\program014a-kombinovana-uloha.deps.json
+C:\aaa\github-lv-is-2024-sk1\IS-Projekty\program014a-kombinovana-uloha\bin\Debug\net7.0\program014a-kombinovana-uloha.runtimeconfig.json
+C:\aaa\github-lv-is-2024-sk1\IS-Projekty\program014a-kombinovana-uloha\bin\Debug\net7.0\program014a-kombinovana-uloha.dll
+C:\aaa\github-lv-is-2024-sk1\IS-Projekty\program014a-kombinovana-uloha\bin\Debug\net7.0\program014a-kombinovana-uloha.pdb
+C:\aaa\github-lv-is-2024-sk1\IS-Projekty\program014a-kombinovana-uloha\obj\Debug\net7.0\program014a-kombinovana-uloha.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-lv-is-2024-sk1\IS-Projekty\program014a-kombinovana-uloha\obj\Debug\net7.0\program014a-kombinovana-uloha.AssemblyInfoInputs.cache
+C:\aaa\github-lv-is-2024-sk1\IS-Projekty\program014a-kombinovana-uloha\obj\Debug\net7.0\program014a-kombinovana-uloha.AssemblyInfo.cs
+C:\aaa\github-lv-is-2024-sk1\IS-Projekty\program014a-kombinovana-uloha\obj\Debug\net7.0\program014a-kombinovana-uloha.csproj.CoreCompileInputs.cache
+C:\aaa\github-lv-is-2024-sk1\IS-Projekty\program014a-kombinovana-uloha\obj\Debug\net7.0\program014a-kombinovana-uloha.dll
+C:\aaa\github-lv-is-2024-sk1\IS-Projekty\program014a-kombinovana-uloha\obj\Debug\net7.0\refint\program014a-kombinovana-uloha.dll
+C:\aaa\github-lv-is-2024-sk1\IS-Projekty\program014a-kombinovana-uloha\obj\Debug\net7.0\program014a-kombinovana-uloha.pdb
+C:\aaa\github-lv-is-2024-sk1\IS-Projekty\program014a-kombinovana-uloha\obj\Debug\net7.0\program014a-kombinovana-uloha.genruntimeconfig.cache
+C:\aaa\github-lv-is-2024-sk1\IS-Projekty\program014a-kombinovana-uloha\obj\Debug\net7.0\ref\program014a-kombinovana-uloha.dll
