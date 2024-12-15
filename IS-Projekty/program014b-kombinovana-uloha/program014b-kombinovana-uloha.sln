@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "program014b-kombinovana-uloha", "program014b-kombinovana-uloha.csproj", "{2A05C700-12F3-4E7A-87A7-F16BDFE555E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A05C700-12F3-4E7A-87A7-F16BDFE555E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A05C700-12F3-4E7A-87A7-F16BDFE555E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A05C700-12F3-4E7A-87A7-F16BDFE555E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A05C700-12F3-4E7A-87A7-F16BDFE555E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B8DABBD-716D-4BA0-AD85-08320106CFF1}
+	EndGlobalSection
+EndGlobal

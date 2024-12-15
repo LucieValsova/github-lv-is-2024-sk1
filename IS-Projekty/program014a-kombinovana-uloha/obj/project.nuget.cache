@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AihiH0Z96q1IKhUsR0B8jRbi9r2YR36d2jIVxhVNXBOc9p9E2c1D+2C8qTCbCDJLwqXSSMB3PlQ9PAK6pYjsHA==",
+  "dgSpecHash": "yPp/1cX0hk0=",
   "success": true,
-  "projectFilePath": "C:\\aaa\\github-lv-is-2024-sk1\\IS-Projekty\\program014a-kombinovana-uloha\\program014a-kombinovana-uloha.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\skola\\github-lv-is-2024-sk1\\IS-Projekty\\program014a-kombinovana-uloha\\program014a-kombinovana-uloha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program014b-kombinovana-uloha\bin\Debug\net9.0\program014b-kombinovana-uloha.exe
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program014b-kombinovana-uloha\bin\Debug\net9.0\program014b-kombinovana-uloha.deps.json
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program014b-kombinovana-uloha\bin\Debug\net9.0\program014b-kombinovana-uloha.runtimeconfig.json
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program014b-kombinovana-uloha\bin\Debug\net9.0\program014b-kombinovana-uloha.dll
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program014b-kombinovana-uloha\bin\Debug\net9.0\program014b-kombinovana-uloha.pdb
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program014b-kombinovana-uloha\obj\Debug\net9.0\program014b-kombinovana-uloha.GeneratedMSBuildEditorConfig.editorconfig
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program014b-kombinovana-uloha\obj\Debug\net9.0\program014b-kombinovana-uloha.AssemblyInfoInputs.cache
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program014b-kombinovana-uloha\obj\Debug\net9.0\program014b-kombinovana-uloha.AssemblyInfo.cs
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program014b-kombinovana-uloha\obj\Debug\net9.0\program014b-kombinovana-uloha.csproj.CoreCompileInputs.cache
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program014b-kombinovana-uloha\obj\Debug\net9.0\program014b-kombinovana-uloha.sourcelink.json
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program014b-kombinovana-uloha\obj\Debug\net9.0\program014b-kombinovana-uloha.dll
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program014b-kombinovana-uloha\obj\Debug\net9.0\refint\program014b-kombinovana-uloha.dll
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program014b-kombinovana-uloha\obj\Debug\net9.0\program014b-kombinovana-uloha.pdb
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program014b-kombinovana-uloha\obj\Debug\net9.0\program014b-kombinovana-uloha.genruntimeconfig.cache
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program014b-kombinovana-uloha\obj\Debug\net9.0\ref\program014b-kombinovana-uloha.dll

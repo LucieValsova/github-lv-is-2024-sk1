@@ -21,7 +21,7 @@ class Program {
                 Console.WriteLine("Nezadali jste přirozené číslo, Zadejte číslo znovu: ");
             }
 
-            uint[] myArray = new int[32];
+            uint[] myArray = new uint[32];
             uint zaloha = cislo;
             uint zbytek;
 
