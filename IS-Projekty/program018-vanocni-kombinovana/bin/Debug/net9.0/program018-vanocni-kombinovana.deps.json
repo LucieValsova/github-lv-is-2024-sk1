@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "program018-vanocni-kombinovana/1.0.0": {
+        "runtime": {
+          "program018-vanocni-kombinovana.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program018-vanocni-kombinovana/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

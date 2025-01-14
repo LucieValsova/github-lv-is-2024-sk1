@@ -1,0 +1,15 @@
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program018-vanocni-kombinovana\bin\Debug\net9.0\program018-vanocni-kombinovana.exe
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program018-vanocni-kombinovana\bin\Debug\net9.0\program018-vanocni-kombinovana.deps.json
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program018-vanocni-kombinovana\bin\Debug\net9.0\program018-vanocni-kombinovana.runtimeconfig.json
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program018-vanocni-kombinovana\bin\Debug\net9.0\program018-vanocni-kombinovana.dll
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program018-vanocni-kombinovana\bin\Debug\net9.0\program018-vanocni-kombinovana.pdb
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program018-vanocni-kombinovana\obj\Debug\net9.0\program018-vanocni-kombinovana.GeneratedMSBuildEditorConfig.editorconfig
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program018-vanocni-kombinovana\obj\Debug\net9.0\program018-vanocni-kombinovana.AssemblyInfoInputs.cache
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program018-vanocni-kombinovana\obj\Debug\net9.0\program018-vanocni-kombinovana.AssemblyInfo.cs
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program018-vanocni-kombinovana\obj\Debug\net9.0\program018-vanocni-kombinovana.csproj.CoreCompileInputs.cache
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program018-vanocni-kombinovana\obj\Debug\net9.0\program018-vanocni-kombinovana.sourcelink.json
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program018-vanocni-kombinovana\obj\Debug\net9.0\program018-vanocni-kombinovana.dll
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program018-vanocni-kombinovana\obj\Debug\net9.0\refint\program018-vanocni-kombinovana.dll
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program018-vanocni-kombinovana\obj\Debug\net9.0\program018-vanocni-kombinovana.pdb
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program018-vanocni-kombinovana\obj\Debug\net9.0\program018-vanocni-kombinovana.genruntimeconfig.cache
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program018-vanocni-kombinovana\obj\Debug\net9.0\ref\program018-vanocni-kombinovana.dll
