@@ -1,0 +1,15 @@
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program015-NSN-NSD\bin\Debug\net9.0\program015-NSN-NSD.exe
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program015-NSN-NSD\bin\Debug\net9.0\program015-NSN-NSD.deps.json
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program015-NSN-NSD\bin\Debug\net9.0\program015-NSN-NSD.runtimeconfig.json
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program015-NSN-NSD\bin\Debug\net9.0\program015-NSN-NSD.dll
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program015-NSN-NSD\bin\Debug\net9.0\program015-NSN-NSD.pdb
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program015-NSN-NSD\obj\Debug\net9.0\program015-NSN-NSD.GeneratedMSBuildEditorConfig.editorconfig
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program015-NSN-NSD\obj\Debug\net9.0\program015-NSN-NSD.AssemblyInfoInputs.cache
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program015-NSN-NSD\obj\Debug\net9.0\program015-NSN-NSD.AssemblyInfo.cs
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program015-NSN-NSD\obj\Debug\net9.0\program015-NSN-NSD.csproj.CoreCompileInputs.cache
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program015-NSN-NSD\obj\Debug\net9.0\program015-NSN-NSD.sourcelink.json
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program015-NSN-NSD\obj\Debug\net9.0\program015-NSN-NSD.dll
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program015-NSN-NSD\obj\Debug\net9.0\refint\program015-NSN-NSD.dll
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program015-NSN-NSD\obj\Debug\net9.0\program015-NSN-NSD.pdb
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program015-NSN-NSD\obj\Debug\net9.0\program015-NSN-NSD.genruntimeconfig.cache
+C:\skola\github-lv-is-2024-sk1\IS-Projekty\program015-NSN-NSD\obj\Debug\net9.0\ref\program015-NSN-NSD.dll
